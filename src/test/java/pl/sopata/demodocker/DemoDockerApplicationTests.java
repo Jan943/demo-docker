@@ -1,4 +1,4 @@
-package pl.bykowski.demodocker;
+package pl.sopata.demodocker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

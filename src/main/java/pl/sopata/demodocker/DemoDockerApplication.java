@@ -1,4 +1,4 @@
-package pl.bykowski.demodocker;
+package pl.sopata.demodocker;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
